@@ -4,4 +4,4 @@ data:
   random_state: 42
 
 model:
-  max_iter: 2000
+  max_iter: 50
